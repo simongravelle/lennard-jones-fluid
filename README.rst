@@ -4,6 +4,9 @@ Data file for NMRforMD
 Raw trajectory files used to generate the data and figure from `nmrformd`_,
 toghether with the associate LAMMPS or GROMACS input files.
 
+This repository was [replaced](https://github.com/NMRDfromMD/dataset-LJ-fluid)
+following the migration from nmrformd to nmrdfrommd.
+
 .. _nmrformd: https://nmrformd.readthedocs.io
 
 To reduce the size of the history:
